@@ -1,0 +1,10 @@
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\bin\Debug\Poke_Mapa_Crianza.exe.config
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\bin\Debug\Poke_Mapa_Crianza.exe
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\bin\Debug\Poke_Mapa_Crianza.pdb
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.csprojAssemblyReference.cache
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.Form1.resources
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.Properties.Resources.resources
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.csproj.GenerateResource.cache
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.csproj.CoreCompileInputs.cache
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.exe
+C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.pdb
