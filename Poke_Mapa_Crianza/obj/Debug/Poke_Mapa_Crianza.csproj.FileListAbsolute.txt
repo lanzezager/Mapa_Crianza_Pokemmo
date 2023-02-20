@@ -8,3 +8,7 @@ C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\
 C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.csproj.CoreCompileInputs.cache
 C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.exe
 C:\Users\Lanze Zager\source\repos\Poke_Mapa_Crianza\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.pdb
+C:\Users\Lanze Zager\Source\Repos\Mapa_Crianza_Pokemmo\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.csproj.AssemblyReference.cache
+C:\Users\Lanze Zager\Source\Repos\Mapa_Crianza_Pokemmo\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lanze Zager\Source\Repos\Mapa_Crianza_Pokemmo\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.exe
+C:\Users\Lanze Zager\Source\Repos\Mapa_Crianza_Pokemmo\Poke_Mapa_Crianza\obj\Debug\Poke_Mapa_Crianza.pdb
